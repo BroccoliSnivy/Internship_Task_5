@@ -12,37 +12,37 @@ Wireshark is a powerful network protocol analyzer used to capture and inspect da
    
    - Began capturing live network packets.
      
-     ![alt](/home/spartan/Desktop/task5/Screenshots/wireshark.png)
+     ![alt](Screenshots/wireshark.png)
 
 2. **Visited *ItsFOSS* website**
    
    - Accessed [itsfoss.com](https://itsfoss.com/) from the browser.
      
-     ![alt](/home/spartan/Desktop/task5/Screenshots/foss.png)
+     ![alt](Screenshots/foss.png)
    
    - Observed HTTP/HTTPS request and response packets in Wireshark related to ItsFOSS.
      
-     ![alt](/home/spartan/Desktop/task5/Screenshots/itsfoss.png)
+     ![alt](Screenshots/itsfoss.png)
 
 3. **Visited *GIMP* website**
    
    - Navigated to [gimp.org](https://www.gimp.org/).
      
-     ![alt](/home/spartan/Desktop/task5/Screenshots/gimp.png)
+     ![alt](Screenshots/gimp.png)
    
    - Observed HTTPS traffic packets with corresponding server responses.
      
-     ![alt](/home/spartan/Desktop/task5/Screenshots/gimpread.png)
+     ![alt](gimpread.png)
 
 4. **Visited *Linux Mint* website**
    
    - Accessed [linuxmint.com](https://www.linuxmint.com/).
      
-     ![alt](/home/spartan/Desktop/task5/Screenshots/mint.png)
+     ![alt](Screenshots/mint.png)
    
    - Monitored network activity and confirmed the encrypted communication.
      
-     ![alt](/home/spartan/Desktop/task5/Screenshots/mintread.png)
+     ![alt](Screenshots/mintread.png)
 
 5. **Performed ICMP Ping Test to Arch Linux**
    
@@ -52,13 +52,13 @@ Wireshark is a powerful network protocol analyzer used to capture and inspect da
      ping -c 5 archlinux.org
      ```
      
-     ![alt](/home/spartan/Desktop/task5/Screenshots/ping.png)
+     ![alt](Screenshots/ping.png)
    
    - Captured ICMP request and reply packets in Wireshark.
    
    - Verified packet sequence and round-trip times.
      
-     ![alt](/home/spartan/Desktop/task5/Screenshots/pingscans.png)
+     ![alt](Screenshots/pingscans.png)
 
 6. **Stopped Wireshark Capture**
    
